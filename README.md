@@ -15,23 +15,19 @@ A Node.js bot powered by [whatsapp-web.js](https://github.com/pedroslopez/whatsa
 
 ## 🚀 Installation
 
-1. **Clone repository**
-   ```bash
-   git clone https://github.com/RMPOfficial/whatsapp-echo-bot.git
-   cd whatsapp-echo-bot
-   ```
+1. **Install nodeJS V18+**
+   
 2. **Install dependencies**
-   ```bash
-   npm install whatsapp-web.js qrcode-terminal
-   ```
-3. **Configure admins**
+   Extract and open the folder
+   
+4. **Configure admins**
    - Open `bot.js` and update the `ADMINS` array with your WhatsApp number(s) in `<number>@c.us` format.
 
-4. **Run the bot**
+5. **Run the RubBot.bat or open cmd and paste the next command:**
    ```bash
    node bot.js
    ```
-5. **Scan QR**
+6. **Scan QR**
    - A QR code appears in the console. Scan it with WhatsApp > Linked Devices.
 
 ## 💻 Usage
@@ -81,11 +77,3 @@ let   useReply      = false;
 - **`oneTime`**: Disable echo after one response.
 - **`useDelay`**: Apply delay before replies.
 - **`useReply`**: Choose reply method.
-
-## 📄 License
-
-MIT License
-
----
-*Happy coding!*
-
