@@ -23,7 +23,7 @@ A Node.js bot powered by [whatsapp-web.js](https://github.com/pedroslopez/whatsa
 4. **Configure admins**
    - Open `bot.js` and update the `ADMINS` array with your WhatsApp number(s) in `<number>@c.us` format.
 
-5. **Run the RubBot.bat or open cmd and paste the next command:**
+5. **Run the RunBot.bat or open cmd and paste the next command:**
    ```bash
    node bot.js
    ```
