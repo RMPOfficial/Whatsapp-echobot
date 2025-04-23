@@ -17,7 +17,7 @@ A Node.js bot powered by [whatsapp-web.js](https://github.com/pedroslopez/whatsa
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/yourusername/whatsapp-echo-bot.git
+   git clone https://github.com/RMPOfficial/whatsapp-echo-bot.git
    cd whatsapp-echo-bot
    ```
 2. **Install dependencies**
